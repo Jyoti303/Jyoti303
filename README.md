@@ -1,6 +1,6 @@
 - ### 👋 Hi, I’m Jyoti (@Jyoti303)
 
-🚀 **Aspiring Cloud & DevOps Engineer** | Passionate about building scalable cloud solutions  
+🚀 ** Cloud & DevOps Engineer** | Passionate about building scalable cloud solutions  
 
 👀 **Interests:**  
 - Cloud Architecture & DevOps  
